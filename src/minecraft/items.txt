@@ -5,7 +5,7 @@ Armor
 Axe
 Bale
 Banner
-Barrier
+sex
 Bars
 Beacon
 Beans
